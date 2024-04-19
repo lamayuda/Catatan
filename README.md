@@ -1,2 +1,6 @@
-# catatan
-semua catatan git
+# Catatan
+
+## Tentang Halaman ini
+
+Semua yang tertulis sebagai data penyimpanan.
+
